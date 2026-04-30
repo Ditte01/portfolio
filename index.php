@@ -37,7 +37,7 @@ $cases = [
 
     <a href="mig.php" class="nav-item">
         <div>
-            <img src="images/profilbillede.jpeg" alt="profil"><br>Om mig
+            <img src="images/Profilbillede.jpeg" alt="profil"><br>Om mig
         </div>
     </a>
 </nav>

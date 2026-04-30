@@ -175,7 +175,8 @@ nav img {
 
 .case img {
     width: 40%;
-    object-fit: cover;
+    height: auto;
+    object-fit: contain;
 }
 
 .case-content {
@@ -222,7 +223,7 @@ footer img {
 }
 
 /* DESKTOP */
-@media (min-width: 768px) {
+@media (min-width: 992px) {
 
     header {
         font-size: 60px;
@@ -245,5 +246,13 @@ footer img {
 
     .case-grid {
         grid-template-columns: 1fr 1fr;
+    }
+
+    .case {
+        height: auto; /* 🔥 vigtig */
+    }
+
+    .case-img {
+        width: 40%;
     }
 }
