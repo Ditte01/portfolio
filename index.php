@@ -22,12 +22,17 @@ $cases = [
 <header>PORTFOLIO</header>
 
 <nav>
-    <div>
-        <img src="ikoner/ForsideMEDIUM.png" alt="hjem"><br>Hjem
-    </div>
-    <div>
-        <img src="ikoner/CaseMEDIUM.png" alt="cases"><br>Cases
-    </div>
+    <a href="index.php" class="nav-item"
+        <div>
+            <img src="ikoner/ForsideMEDIUM.png" alt="hjem"><br>Hjem
+        </div>
+    </a>
+
+    <a href="index.php" class="nav-item">
+        <div>
+            <img src="ikoner/CaseMEDIUM.png" alt="cases"><br>Cases
+        </div>
+    </a>
     <div>
         <img src="images/Profilbillede.jpeg" alt="profil"><br>Om mig
     </div>
