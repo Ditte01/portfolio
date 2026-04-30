@@ -175,7 +175,6 @@ nav img {
 
 .case img {
     width: 40%;
-    height: auto;
     object-fit: contain;
 }
 
@@ -246,13 +245,5 @@ footer img {
 
     .case-grid {
         grid-template-columns: 1fr 1fr;
-    }
-
-    .case {
-        height: auto; /* 🔥 vigtig */
-    }
-
-    .case-img {
-        width: 40%;
     }
 }
