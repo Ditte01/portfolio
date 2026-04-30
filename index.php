@@ -17,6 +17,7 @@ $cases = [
 
 </head>
 
+
 <body>
 
 <header>PORTFOLIO</header>
@@ -99,12 +100,14 @@ $cases = [
 </section>
 
 
-<footer>
+<footer class="footer">
     <a href="https://www.linkedin.com/in/ditte-frydenreim-kj%C3%A6r-99269a2ba/" target="_blank">LinkedIn</a>
     <a href="https://www.instagram.com/ditte.f.kjaer/" target="_blank">Instagram</a>
     <a href="https://www.facebook.com/profile.php?id=100008896668161" target="_blank">Facebook</a>
     <a href="#">Til toppen <img src="ikoner/Pil%20m.%20stregMEDIUM.png" alt="top pil"></a>
 </footer>
+
+
 
 </body>
 </html>
