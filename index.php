@@ -63,9 +63,9 @@ $cases = [
                 <div class="case-content">
                     <div><?php echo $cases[$i]['title']; ?></div>
                     <div class="play">
-                        Afspil case
-                        <img class="knap" src="ikoner/PlaybuttonMEDIUM.png">
+                        Afspil case <img class="knap" src="ikoner/PlaybuttonMEDIUM.png">
                     </div>
+
                 </div>
             </div>
         <?php endfor; ?>
@@ -82,8 +82,8 @@ $cases = [
                 <div class="case-content">
                     <div><?php echo $cases[$i]['title']; ?></div>
                     <div class="play">
-                        Afspil case
-                        <img class="knap" src="ikoner/PlaybuttonMEDIUM.png">
+                        Afspil case<div> <img class="knap" src="ikoner/PlaybuttonMEDIUM.png"></div>
+
                     </div>
                 </div>
             </div>
