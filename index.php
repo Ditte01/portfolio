@@ -28,14 +28,17 @@ $cases = [
         </div>
     </a>
 
-    <a href="index.php" class="nav-item">
+    <a href="cases.php" class="nav-item">
         <div>
             <img src="ikoner/CaseMEDIUM.png" alt="cases"><br>Cases
         </div>
     </a>
-    <div>
-        <img src="images/Profilbillede.jpeg" alt="profil"><br>Om mig
-    </div>
+
+    <a href="om%20mig.php" class="nav-item">
+        <div>
+            <img src="images/profilbillede.jpeg" alt="profil"><br>Om mig
+        </div>
+    </a>
 </nav>
 
 <section class="hero">
