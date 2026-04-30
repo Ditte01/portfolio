@@ -34,7 +34,7 @@ $cases = [
         </div>
     </a>
 
-    <a href="om%20mig.php" class="nav-item">
+    <a href="mig.php" class="nav-item">
         <div>
             <img src="images/profilbillede.jpeg" alt="profil"><br>Om mig
         </div>
@@ -103,7 +103,7 @@ $cases = [
     <a href="https://www.linkedin.com/in/ditte-frydenreim-kj%C3%A6r-99269a2ba/" target="_blank">LinkedIn</a>
     <a href="https://www.instagram.com/ditte.f.kjaer/" target="_blank">Instagram</a>
     <a href="https://www.facebook.com/profile.php?id=100008896668161" target="_blank">Facebook</a>
-    <a href="#">Til toppen</a> <img src="ikoner/Pil%20m.%20stregMEDIUM.png" alt="top pil">
+    <a href="#">Til toppen <img src="ikoner/Pil%20m.%20stregMEDIUM.png" alt="top pil"></a>
 </footer>
 
 </body>
